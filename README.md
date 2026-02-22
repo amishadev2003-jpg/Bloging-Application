@@ -1,2 +1,2 @@
 # Bloging-Application
-Mern Stack &amp; Javascript
+Mern Stack & Javascript
